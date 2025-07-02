@@ -86,7 +86,7 @@ shutil.copyfile(f"config/packages-{args.profile}.txt", "config/packages.txt")
 
 This lets you dynamically switch to different package lists (e.g. `dev`, `minimal`, `data`) and optionally override configs.
 
-5. (Optional) Test in a Vagrant VM
+### 5. (Optional) Test in a Vagrant VM
 
 Spin up an isolated test environment:
 ```bash
