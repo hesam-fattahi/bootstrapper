@@ -1,0 +1,9 @@
+curl
+git
+htop
+vim
+zsh
+build-essential
+python3-pip
+jq
+bat
