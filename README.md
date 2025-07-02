@@ -66,7 +66,7 @@ This script will:
 - Apply system settings from `setup.conf`
 - Run `scripts/post_install.sh` if it exists
 
-4. (Optional) Use the Python CLI
+### 4. (Optional) Use the Python CLI
 
 Call the CLI to select a custom profile:
 
